@@ -65,7 +65,7 @@ export const europeanClassics = [
   {
     name: 'Рататуй',
     description: 'Французское овощное блюдо из баклажанов, перца и кабачков.',
-    image: require('./product_1.jpg'),
+    image: require('./product_10.jpg'),
     price: 28,
     count: 1,
   },
